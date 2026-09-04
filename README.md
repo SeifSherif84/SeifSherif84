@@ -72,7 +72,7 @@ Scalable e-commerce backend providing product management, shopping cart, order p
 ## 📫 Let's Connect
 
 * GitHub: [@SeifSherif84](https://github.com/SeifSherif84)
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: www.linkedin.com/in/seif-s-khedr
 
 ---
 
