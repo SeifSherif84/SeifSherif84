@@ -6,25 +6,25 @@ I'm a Computer Science graduate and .NET Backend Developer passionate about buil
 
 I focus on designing RESTful APIs, developing database-driven systems, implementing authentication and authorization, and applying software engineering principles to build clean and maintainable solutions.
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-### 🏥 [Clinova – Clinic Management & Booking System](https://github.com/SeifSherif84/Clinova)
+### 🏥 [Clinova – Clinic Management & Booking System](https://github.com/SeifSherif84/Clinova) · Ongoing
 
-A clinic management and appointment booking platform that connects patients, doctors, and clinics. It provides appointment scheduling, payment processing, real-time notifications, and clinic management capabilities.
+A clinic management and appointment booking platform connecting patients, doctors, and clinics. It provides appointment scheduling, payment processing, real-time notifications, and clinic management capabilities.
 
 **Tech Stack:** C# · ASP.NET Core · Entity Framework Core · SQL Server · JWT · SignalR · Paymob
 
-### ⚖️ Legal Assistant – AI-Powered Law Firm Management System
+### ⚖️ [Legal Assistant – AI-Powered Law Firm Management System](https://github.com/SeifSherif84/LegalAssistant_Software)
 
-An AI-powered law firm management system featuring RAG-based legal assistance, enabling users to query legal knowledge and analyze case documents.
+An AI-powered law firm management system featuring RAG-based legal assistance, enabling lawyers to query legal knowledge and analyze case documents to identify potential legal loopholes and weaknesses.
 
-**Tech Stack:** C# · ASP.NET Core · RAG · AI · SQL Server
+**Tech Stack:** C# · ASP.NET Core · Entity Framework Core · SQL Server · RAG · AI · JWT
 
-### 🛒 E-Commerce Web API
+### 🛒 [E-Commerce Web API](https://github.com/SeifSherif84/Ecommerce-Web-API)
 
-A backend system for e-commerce operations, featuring product management, shopping cart functionality, order processing, authentication, and payment integration.
+A scalable e-commerce backend providing product management, shopping cart operations, order processing, JWT-based authentication, and secure payment integration with Stripe.
 
-**Tech Stack:** C# · ASP.NET Core · Entity Framework Core · SQL Server · Stripe
+**Tech Stack:** C# · ASP.NET Core · Entity Framework Core · SQL Server · JWT · Stripe
 
 ## 🛠️ Technical Skills
 
